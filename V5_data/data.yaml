@@ -1,0 +1,5 @@
+train: ../V5_data/train/images
+val: ../V5_data/valid/images
+
+nc: 5
+names: ['face',"face_mask",'hat','person',"smoke"]
